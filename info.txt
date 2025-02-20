@@ -9,3 +9,6 @@ https://tailwindcss.com/docs/installation/play-cdn
 
 tailblocks
 https://tailblocks.cc/
+
+
+https://gdpatil39.github.io/tailwind/
