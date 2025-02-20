@@ -12,3 +12,11 @@ https://tailblocks.cc/
 
 
 https://gdpatil39.github.io/tailwind/
+
+
+Step 3: Configure GitHub Pages
+1.Go to your repository on GitHub.
+2.Click on Settings (top-right).
+3.Scroll down to the "Pages" section.
+4.Under "Branch", select main (or master if that’s your default).
+5.Click Save.
